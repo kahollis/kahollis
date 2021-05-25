@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kahollis !
 - 👀 I’m interested in User Experience and Product Design.
-- 🌱 I’m currently studying Rhetoric and User Experience at Cal Poly, San Luis Obispo.
+- 🌱 I’m currently studying English and User Experience at Cal Poly, San Luis Obispo.
 - 💻 I’m looking to collaborate on projects and applications related to the life sciences industry.
 - 📫 How to reach me: www.linkedin.com/in/katie-hollister
 
