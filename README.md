@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katie hollister !
 - 👀 I’m an Associate Product Designer.
-- 🌱 I’ve studied English and User Experience at Cal Poly, San Luis Obispo.
-- 💻 I’m currently collaborating on projects and applications related to the life sciences industry.
+- 🌱 I have degrees in Graphic Communication(User Experience) and English from Cal Poly, San Luis Obispo.
+- 💻 I’m currently working on projects and applications related to the life sciences industry.
 - 📫 How to reach me: www.linkedin.com/in/katie-hollister
 
 <!---
